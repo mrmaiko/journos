@@ -1,0 +1,2 @@
+# journos
+new blockchain project.
